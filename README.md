@@ -253,9 +253,3 @@ textura para la presentación final.
 - **Coordenadas absolutas:** no hay sistema de layout automático (flexbox, grid, etc.).
   Los widgets se posicionan manualmente y se reposicionan en `onResize`.
 - **Prueba de concepto:** la API puede cambiar; no hay garantía de estabilidad.
-
----
-
-## Licencia
-
-Código generado como experimento. Úsalo, modifícalo y distribúyelo libremente.
