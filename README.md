@@ -1,4 +1,4 @@
-# WinXP UI
+# Cross WinXP UI
 
 <p align="center">
   <img src="screenshots/3d_1.png" width="32%">
@@ -15,7 +15,7 @@
 
 ## ¿Qué es esto?
 
-**WinXP UI** es una librería de interfaz gráfica inspirada visualmente en el estilo de
+**Cross WinXP UI** es una librería de interfaz gráfica inspirada visualmente en el estilo de
 **Windows XP** — bordes bevel, paleta de colores clásica, controles con relieve — construida
 completamente sobre **SDL2** con renderizado **por software** (sin OpenGL, sin GPU, sin
 dependencias adicionales).
