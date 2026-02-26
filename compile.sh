@@ -20,6 +20,8 @@ gcc -std=c99 -c "$1" -o "$TMP_DIR/temp.o" $CFLAGS $INCLUDE
 PROGRAM="${1##*/}"
 PROGRAM="${PROGRAM%.c}"
 
+g++ -std=c++11 $TMP_DIR/*.o -o $PROGRAM $LIBS
+
 # Clean up
 rm -rf "$TMP_DIR"
 
