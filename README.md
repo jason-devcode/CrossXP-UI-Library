@@ -44,8 +44,8 @@ sin cambiar una línea de código.
 
 | Documento | Contenido |
 |---|---|
-| [01 — Primeros pasos](docs/01_getting_started.md) | Setup, estructura base, compilación, callbacks del bucle |
-| [02 — Widgets](docs/02_widgets.md) | Referencia de todos los widgets, propiedades y eventos |
+| [01 — Primeros pasos](/docs/01_getting_started.md) | Setup, estructura base, compilación, callbacks del bucle |
+| [02 — Widgets](/docs/02_widgets.md) | Referencia de todos los widgets, propiedades y eventos |
 | [03 — Estado y ciclo de vida](docs/03_state_lifecycle.md) | Gestión de estado, dirty/render, focus, jerarquía |
 | [04 — Framebuffer personalizado](docs/04_framebuffer.md) | Render 3D, pixel painting, multi-viewport, widgets custom |
 | [05 — Comunicación entre componentes](docs/05_communication.md) | Patrones de eventos, bus, command/undo, selección+panel |
